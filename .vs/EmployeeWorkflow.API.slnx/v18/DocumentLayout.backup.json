@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\employeeworkflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\employeeworkflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\middlewares\\middlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\middlewares\\middlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\dtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\dtos\\approvaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\controllers\\requestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|f:\\employeeworkflow\\employeeworkflow.api\\employeeworkflow.api\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308C1401-42D6-FA42-1DCC-DC40A2A6676C}|EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj|solutionrelative:employeeworkflow.api\\controllers\\approvalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\obj\\EmployeeWorkflow.API.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeWorkflow.API\\obj\\EmployeeWorkflow.API.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\RequestDto.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\DTOs\\RequestDto.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\RequestDto.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\DTOs\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:12:58.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Middlewares.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Middlewares\\Middlewares.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Middlewares\\Middlewares.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Middlewares\\Middlewares.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Middlewares\\Middlewares.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:32:46.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\appsettings.Development.json",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeWorkflow.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T11:38:54.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\appsettings.json",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\appsettings.json",
+              "RelativeToolTip": "EmployeeWorkflow.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T12:41:40.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T23:12:13.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Program.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Program.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwFIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:36:37.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:56:57.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeWorkflow.API",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj",
+              "RelativeToolTip": "EmployeeWorkflow.API\\EmployeeWorkflow.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T23:16:37.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Data\\DbConnection.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Data\\DbConnection.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Data\\DbConnection.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Data\\DbConnection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:07:37.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\DTOs\\RegisterDto.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:42:59.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\DTOs\\LoginDto.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:56:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\DTOs\\EmployeeUpdateDto.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\DTOs\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:51:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:48:53.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApprovalDto.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\ApprovalDto.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\DTOs\\ApprovalDto.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\DTOs\\ApprovalDto.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\DTOs\\ApprovalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T10:41:39.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequestController.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\RequestController.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Controllers\\RequestController.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\RequestController.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Controllers\\RequestController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:14:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Controllers\\HealthController.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:01:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:02:07.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApprovalController.cs",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\ApprovalController.cs",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\Controllers\\ApprovalController.cs",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\Controllers\\ApprovalController.cs",
+              "RelativeToolTip": "EmployeeWorkflow.API\\Controllers\\ApprovalController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T18:14:42.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeWorkflow.API.csproj.nuget.g.props",
+              "DocumentMoniker": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\obj\\EmployeeWorkflow.API.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "EmployeeWorkflow.API\\obj\\EmployeeWorkflow.API.csproj.nuget.g.props",
+              "ToolTip": "F:\\EmployeeWorkflow\\EmployeeWorkflow.API\\EmployeeWorkflow.API\\obj\\EmployeeWorkflow.API.csproj.nuget.g.props",
+              "RelativeToolTip": "EmployeeWorkflow.API\\obj\\EmployeeWorkflow.API.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-03T22:16:34.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
